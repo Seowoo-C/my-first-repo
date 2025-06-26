@@ -28,7 +28,7 @@ Use pip!!!!!!!
 ## Run Tests
 
 ## Credit
-- seowoo-c 4( @seowoo-c )
+- seowoo-c 4( @ seowoo-c )
 
 ## github의 문서는 Markdown을 기반으로 작성합니다.
 
